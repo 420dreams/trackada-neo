@@ -1,0 +1,10 @@
+{
+  "name": "trackada",
+  "version": "1.0.0",
+  "description": "Vérifie l'avancement des projets du bloc 1 Ada Tech",
+  "main": "checktrack.js",
+  "scripts": {
+      "type": "module",
+    "start": "node checktrack.js"
+  }
+}
